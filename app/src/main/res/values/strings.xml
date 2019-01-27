@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutTests</string>
+    <string name="click_me">Kliknij</string>
+    <string name="to">Do</string>
+    <string name="message">Treść wiadomości</string>
+    <string name="send">Wyślij</string>
+</resources>
